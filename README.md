@@ -12,3 +12,6 @@ https://kelasrobot.com/2-cara-sukses-pasang-install-board-esp8226-ke-arduino-ide
 
 contoh pembuatan nya aes di arduino dan php
 https://www.youtube.com/watch?v=5KIgU540dj4
+
+membaca port serial di windows dengan php 
+https://histla.com/membaca-data-serial-port-dari-arduino-ke-php-pada-windows-xp.htm
