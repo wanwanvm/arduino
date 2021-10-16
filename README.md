@@ -15,3 +15,6 @@ https://www.youtube.com/watch?v=5KIgU540dj4
 
 membaca port serial di windows dengan php 
 https://histla.com/membaca-data-serial-port-dari-arduino-ke-php-pada-windows-xp.htm
+
+arduino mengirim data ke php dengan method post
+https://www.anakkendali.com/tutorial-esp8266-send-data-database-mysql/
