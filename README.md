@@ -31,3 +31,6 @@ https://www.anakkendali.com/tutorial-esp8266-send-data-database-mysql/
 
 sensor DHt11
 http://saptaji.com/2016/08/10/mengukur-suhu-dan-kelembaban-udara-dengan-sensor-dht11-dan-arduino/
+
+membaca aes 
+https://www.devglan.com/online-tools/aes-encryption-decryption
