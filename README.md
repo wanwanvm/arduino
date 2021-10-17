@@ -24,3 +24,6 @@ https://histla.com/membaca-data-serial-port-dari-arduino-ke-php-pada-windows-xp.
 
 arduino mengirim data ke php dengan method post
 https://www.anakkendali.com/tutorial-esp8266-send-data-database-mysql/
+
+sensor DHt11
+http://saptaji.com/2016/08/10/mengukur-suhu-dan-kelembaban-udara-dengan-sensor-dht11-dan-arduino/
