@@ -13,6 +13,12 @@ https://kelasrobot.com/2-cara-sukses-pasang-install-board-esp8226-ke-arduino-ide
 contoh pembuatan nya aes di arduino dan php
 https://www.youtube.com/watch?v=5KIgU540dj4
 
+komunikasi dua arah espn dengan server
+https://www.semesin.com/project/2018/03/14/komunikasi-dua-arah-arduino-dengan-web-browser-menggunakan-mysql-xampp-web-hosting-dan-esp8266/
+
+
+
+#tambahan belum berfungsi 
 membaca port serial di windows dengan php 
 https://histla.com/membaca-data-serial-port-dari-arduino-ke-php-pada-windows-xp.htm
 
