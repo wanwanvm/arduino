@@ -19,6 +19,9 @@ https://www.semesin.com/project/2018/03/14/komunikasi-dua-arah-arduino-dengan-we
 //belajar Arduiono
 https://tytomulyono.com/
 
+simpan data sensor ke mysql 
+https://www.youtube.com/watch?v=uNU_d7M3FAg&t=7s
+
 #tambahan belum berfungsi 
 membaca port serial di windows dengan php 
 https://histla.com/membaca-data-serial-port-dari-arduino-ke-php-pada-windows-xp.htm
